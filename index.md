@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Consommation Electrique par région de France
 
-You can use the [editor on GitHub](https://github.com/giguerre/Datavis-proj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Langage de programmation : D3JS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+l'objectif de ce projet est ......
 
 ```markdown
 Syntax highlighted code block
@@ -26,11 +25,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see my [Block bluider](http://blockbuilder.org/), my name is idriss.
 
-### Jekyll Themes
+### Data processing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giguerre/Datavis-proj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
